@@ -1,0 +1,12 @@
+main:
+  - name: Welcome                                             
+    url: "#hero"
+  - name: Services
+    url: "#services"
+  - name: Clients
+    url: "#clients"
+  - name: Testimonials                                             
+    url: "#testimonials"
+  - name: Blog
+    url: "#blog"
+    
