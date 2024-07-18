@@ -222,9 +222,9 @@
       opacity: 1;
       left: 0;
       transition: .5s ease-in-out;
-      background: url(/assets/img/left.svg) no-repeat;
+      background: url(./assets/img/left.svg) no-repeat;
       &:hover {
-        background: url(/assets/img/left-hover.svg) no-repeat
+        background: url(./assets/img/left-hover.svg) no-repeat
       }
     }
     .carousel-control-next {
@@ -234,9 +234,9 @@
       opacity: 1;
       right: 0;
       transition: .5s ease-in-out;
-      background: url(/assets/img/right.svg) no-repeat;
+      background: url(./assets/img/right.svg) no-repeat;
       &:hover {
-        background: url(/assets/img/right-hover.svg) no-repeat;
+        background: url(./assets/img/right-hover.svg) no-repeat;
       }
     }
   }
