@@ -29,4 +29,54 @@
         }
 
       }
+
+    
+}
+
+.engineering-services{
+    @extend .stats;
+    margin-top: 50px;
+    .logo-section{
+        margin-bottom: 30px;
+        gap: 40px;
+        height: 340px;
+        transition: all 0.5s ease;
+        .icon-container{ 
+            background: transparent;
+        }
+        .stats-content{
+            h3{               
+                font-weight: 500;
+                font-size: 18px;
+                line-height: 27px;
+                text-align: center;
+                color: #000000;                
+                flex: none;
+                order: 1;
+                flex-grow: 0;
+            }
+            p{               
+                font-style: normal;
+                font-weight: 400;
+                font-size: 14px;
+                line-height: 21px;
+                text-align: center;
+                color: $dark2;
+                flex: none;
+                order: 2;
+                flex-grow: 0;
+                display: none;
+            }
+        }
+
+        &:hover{
+            .stats-content{
+                h3{}
+                p{
+                    display: block;
+                }
+            }
+        }
+    }
+        
 }

@@ -101,6 +101,11 @@ section {
             }
         }
         
+        &.two-line{
+            strong{
+                color: #F1BF11;
+            }
+        }
 
        span{
         position: relative;
@@ -234,4 +239,13 @@ section.customer-logos-v2 {
     }
 
    
+  }
+
+  .devops{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    .btn-outline-primary{
+        width: 80%;
+    }
   }
