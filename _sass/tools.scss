@@ -6,7 +6,7 @@ background: linear-gradient(95.2deg, #F3F8FC 10.65%, #D7DEF6 88.46%, #FCEFF1 172
 mix-blend-mode: normal;
 position: relative;
 &::before{
-    background: url(/assets//img/tools-bg.svg) no-repeat;
+    background: url(./assets//img/tools-bg.svg) no-repeat;
 background-size: cover;
 content: "";
 position: absolute;
