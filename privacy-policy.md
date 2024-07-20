@@ -8,7 +8,7 @@ hero:
   text: ""
   btnText: ""
   btnUrl: ""
-  image: "/assets/img/hero-bg.jpg"
+  image: "./assets/img/hero-bg.jpg"
 ---
 
 
