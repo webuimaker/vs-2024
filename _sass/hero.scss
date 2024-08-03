@@ -55,7 +55,7 @@ section {
 
     h1{
         font-size: 40px;
-        line-height: 52px;
+        line-height: 50px;
         color: #FFFFFF;
         font-weight: 600;
         color: $dark;
@@ -71,7 +71,7 @@ section {
         font-weight: 400;
         display: inline-block;
         position: relative;
-        margin-top: 1rem;
+        margin-top: 0.5rem;
         &.bordered{
             &::before{
                 box-sizing: border-box;
