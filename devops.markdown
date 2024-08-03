@@ -11,7 +11,7 @@ description: "VALLEY STARTUP CONSULTANT"
   h2-class="two-line"
   span=""
   cta=true
-  imgkit-url="/assets/img/devops-page.svg"
+  imgkit-url="./assets/img/devops-page.svg"
   alt-text=""
   left-col-width="col-md-5"
   img-col-class="col-md-7 col-offset-1" 

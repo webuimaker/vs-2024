@@ -13,7 +13,7 @@ description: "VALLEY STARTUP CONSULTANT"
   cta=false
   stats=true
   cta-custom-demo-text = "Talk With Us"
-  imgkit-url="/assets/img/sass.svg"
+  imgkit-url="./assets/img/sass.svg"
   alt-text="hero"
   hero-class="gradient-hero-with-logos legal-services-hero"
   class="seaas-img"

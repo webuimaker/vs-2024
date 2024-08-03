@@ -12,7 +12,7 @@ description: "VALLEY STARTUP CONSULTANT"
   span="You are an individual with an idea in mind or a big company with a PRD to develop, our software development and engineering expertise can help you deliver it efficiently"
   cta=true
   cta-custom-demo-text = "Talk With Us"
-  imgkit-url="/assets/img/hero-landing.svg"
+  imgkit-url="./assets/img/hero-landing.svg"
   alt-text="hero"
   hero-class="gradient-hero-with-logos legal-services-hero blue-tick-list"
   img-width=590
