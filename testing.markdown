@@ -78,7 +78,7 @@ description: "VALLEY STARTUP CONSULTANT"
           </ul>
       </div>
       <div class="col-md-5 order-md-2 order-1">
-          <img src="./assets/img/ecommerce.svg" alt="" class="ecommerce img-fluid">
+          <img src="/assets/img/ecommerce.svg" alt="" class="ecommerce img-fluid">
       </div>
     </div>
     {% include sections/stories.html
@@ -92,7 +92,7 @@ description: "VALLEY STARTUP CONSULTANT"
     %}   
     <div class="row">
       <div class="col-md-5 order-md-1 order-2">
-          <img src="./assets/img/finance-app.svg" alt="" class="ecommerce img-fluid">
+          <img src="/assets/img/finance-app.svg" alt="" class="ecommerce img-fluid">
       </div>
       <div class="col-md-7 order-md-2 order-1">
           <ul class="stories-list">
@@ -136,7 +136,7 @@ description: "VALLEY STARTUP CONSULTANT"
     %}   
     <div class="row">
       <div class="col-md-5 order-md-2 order-2">
-          <img src="./assets/img/healtcare.svg" alt="" class="ecommerce img-fluid">
+          <img src="/assets/img/healtcare.svg" alt="" class="ecommerce img-fluid">
       </div>
       <div class="col-md-7 order-md-1 order-2">
           <ul class="stories-list">
