@@ -252,3 +252,37 @@ section.customer-logos-v2 {
   .seaas-img{
     margin-top: -100px;
   }
+  @media screen and (max-width:767px){
+    #hero{    
+        h1{
+            font-size: 30px;
+            line-height: 40px;
+            text-align: center;    
+        }
+        h2{
+            font-size: 26px;
+            line-height: 30px;
+            text-align: center;
+            width: 100%;
+            &::before, &::after{
+                display: none;
+            }
+            span{
+                line-height: inherit;
+                padding: 0px;
+                margin: 0px;
+                border: 0px;
+                display: block;
+                &::before, &::after{
+                    display: none;
+                }
+                
+            }
+        }
+        .hero-container {
+            padding-left: 30px;
+            text-align: center;
+        }
+    }
+
+  }
